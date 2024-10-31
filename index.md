@@ -9,3 +9,6 @@
 ##### This is an `<h5>` header
 
 ###### This is an `<h6>` header, which is the smallest
+
+![Image of octocat as 49ers football player](https://octodex.github.com/images/skatetocat.png)
+

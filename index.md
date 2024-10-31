@@ -10,5 +10,5 @@
 
 ###### This is an `<h6>` header, which is the smallest
 
-![Image of octocat as 49ers football player](https://octodex.github.com/images/skatetocat.png)
+![Image of skater octocat](https://octodex.github.com/images/skatetocat.png)
 

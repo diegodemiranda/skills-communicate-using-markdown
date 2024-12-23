@@ -15,3 +15,7 @@ var myVar = "Hello, world!";
 ```
 
 <img src="https://octodex.github.com/images/skatetocat.png" width="200" height="200" alt="Image of skater octocat">
+
+- [ ] Do all the steps of skills communicate using markdown
+- [ ] Outline my portfolio
+- [ ] Introduce myself to the world

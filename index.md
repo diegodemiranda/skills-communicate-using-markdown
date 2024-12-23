@@ -10,5 +10,8 @@
 
 ###### This is an `<h6>` header, which is the smallest
 
-![Image of skater octocat](https://octodex.github.com/images/skatetocat.png)
+``` javascript
+var myVar = "Hello, world!";
+```
 
+<img src="https://octodex.github.com/images/skatetocat.png" width="200" height="200" alt="Image of skater octocat">
